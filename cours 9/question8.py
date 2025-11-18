@@ -7,8 +7,12 @@ virus_et_autres_info = [
     ["Uroboros", 0.005, "Consomme les organismes incompatibles et renforce les hôtes compatibles"]
 ]
 
-if len(virus) == 0:
-    print("Désolé aucun produit pharmaceutique mortel disponible")
+nb_element = len(virus_et_autres_info)
+
+if nb_element > 0 :
+    print(f"liste des {nb_element} virus:")
+    for v in virus_et_autres_info:
+        print(f"  {v[0]} - {v[2]} : (taux de mutation estimé : {v[1]*100}%)")
 
 
 

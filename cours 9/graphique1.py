@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import matplotlib as plt
 
 
 temperatures = [5.0, 5.816326530612245, 6.63265306122449, 7.448979591836735,

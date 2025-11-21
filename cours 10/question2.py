@@ -1,3 +1,5 @@
+from matplotlib import pyplot as plt
+
 populations = {
     "Cerfs": [32, 45, 50, 41],
     "Renards": [12, 15, 13, 10],
@@ -29,3 +31,18 @@ print(f"Espèce la plus nombreuse : {nom_espece_moyenne_max} ({moyenne_max} indi
 
 
 
+
+#étape 2
+
+plt.plot(saisons, populations["Cerfs"], marker = 'o', color = 'blue')
+plt.plot(saisons, populations["Renards"], marker = 'o', color = 'orange')
+plt.plot(saisons, populations["Lapins"], marker = 'o', color = 'green')
+plt.plot(saisons, populations["Aigles"], marker = 'o', color = 'red')
+
+plt.grid()
+plt.legend()
+plt.title("Évolution des populations selon les saisons")
+plt.xlabel("Nombre d'individus")
+plt.ylabel("Saison")
+
+plt.show()

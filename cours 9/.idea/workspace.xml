@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8bc736-6da7-42e2-a4cd-f5165b87a6ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../cours 10/question1reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cours 10/question2reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reprisedesexercice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cours 9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cours 9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +54,16 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.liv.executor": "Run",
+    "Python.question.executor": "Run",
+    "Python.question11.executor": "Run",
+    "Python.question12.executor": "Run",
+    "Python.question13.executor": "Run",
     "Python.question9.executor": "Run",
     "Python.reprisedesexercice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">

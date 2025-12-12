@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f4db6c-a565-4adc-aa0f-ca0f7f580ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mpg_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tips_dataset.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 10/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question3reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question4reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question5reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question1reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question2reprise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 10/question2reprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 10/question2reprise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 10/question5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 10/question5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Liviaroy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Liviaroy/programmation.git",
+    "accountId": "c2e8b341-b6f2-44f3-98de-8d3ebbd90dd1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -49,6 +58,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.question1.executor": "Run",
+    "Python.question1reprise.executor": "Run",
     "Python.question2.executor": "Run",
     "Python.question3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +76,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
       </set>
     </attachedChunks>
   </component>

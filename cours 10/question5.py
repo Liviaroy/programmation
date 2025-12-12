@@ -10,7 +10,7 @@ with open("Turing.csv", "r") as f:
     compteur = 0
     annee_precedente = 0
     for ligne in lecteur_csv:
-        if "intelliigence" in ligne[2]:
+        if "intelligence" in ligne[2]:
             resultat1.append(ligne[1])
         resultat3 += 1
         if annee_precedente != 0:

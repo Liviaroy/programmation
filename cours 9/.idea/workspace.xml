@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8bc736-6da7-42e2-a4cd-f5165b87a6ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/question1reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question2reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question3reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question4reprise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 11/question4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 11/question4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cours 11/question4reprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 11/question5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question10reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question11reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question12reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question5reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question6reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question7reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question8reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question9reprise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reprisedesexercice.py" beforeDir="false" afterPath="$PROJECT_DIR$/reprisedesexercice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question4reprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/question4reprise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +60,22 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.liv.executor": "Run",
     "Python.question.executor": "Run",
+    "Python.question10reprise.executor": "Run",
     "Python.question11.executor": "Run",
+    "Python.question11reprise.executor": "Run",
     "Python.question12.executor": "Run",
+    "Python.question12reprise.executor": "Run",
     "Python.question13.executor": "Run",
     "Python.question1reprise.executor": "Run",
     "Python.question2reprise.executor": "Run",
     "Python.question3reprise.executor": "Run",
+    "Python.question4reprise.executor": "Run",
+    "Python.question5reprise.executor": "Run",
+    "Python.question6reprise.executor": "Run",
+    "Python.question7reprise.executor": "Run",
+    "Python.question8reprise.executor": "Run",
     "Python.question9.executor": "Run",
+    "Python.question9reprise.executor": "Run",
     "Python.reprisedesexercice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

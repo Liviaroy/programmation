@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f4db6c-a565-4adc-aa0f-ca0f7f580ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/question3reprise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question2reprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/question2reprise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question4.py" beforeDir="false" afterPath="$PROJECT_DIR$/question4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question4reprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/question5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Python.question2reprise.executor": "Run",
     "Python.question3.executor": "Run",
     "Python.question3reprise.executor": "Run",
+    "Python.question5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",

@@ -26,7 +26,9 @@ Liste des 4 virus :
 temperatures = [23.5, 25.4, 27.6, 24.9, 26.7, 24.6]
 min_temp = temperatures[0]
 max_temp = temperatures[0]
+nb_element = 0
 for temp in temperatures:
+    nb_element += 1
     if temp < min_temp:
         min_temp = temp
     if temp > max_temp:

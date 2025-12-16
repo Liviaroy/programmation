@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f4db6c-a565-4adc-aa0f-ca0f7f580ec2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cours 10/question1reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question2reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question3reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question4reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question6reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question1reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question2reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question3reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question5reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/question5reprisees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 9/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 9/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 9/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 9/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 9/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 9/q7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question4.py" beforeDir="false" afterPath="$PROJECT_DIR$/question4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question4reprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/question5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +68,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.q1.executor": "Run",
     "Python.question1.executor": "Run",
     "Python.question1reprise.executor": "Run",
+    "Python.question1reprise2.executor": "Run",
     "Python.question2.executor": "Run",
     "Python.question2reprise.executor": "Run",
+    "Python.question2reprise2.executor": "Run",
     "Python.question3.executor": "Run",
     "Python.question3reprise.executor": "Run",
+    "Python.question3reprise2.executor": "Run",
     "Python.question5.executor": "Run",
+    "Python.question5reprise.executor": "Run",
+    "Python.question5reprisees.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",

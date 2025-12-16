@@ -5,16 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8bc736-6da7-42e2-a4cd-f5165b87a6ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/question10reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question11reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question12reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question5reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question6reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question7reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question8reprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question9reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/biblio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question1reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question2reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question3reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question4reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 10/question6reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 11/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 11/question1reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 11/question2reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 11/question3reprise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 11/question5reprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cours 11/question5reprisees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cours 11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cours 11/question4.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question4reprise.py" beforeDir="false" afterPath="$PROJECT_DIR$/question4reprise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,34 +67,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.liv.executor": "Run",
-    "Python.question.executor": "Run",
-    "Python.question10reprise.executor": "Run",
-    "Python.question11.executor": "Run",
-    "Python.question11reprise.executor": "Run",
-    "Python.question12.executor": "Run",
-    "Python.question12reprise.executor": "Run",
-    "Python.question13.executor": "Run",
-    "Python.question1reprise.executor": "Run",
-    "Python.question2reprise.executor": "Run",
-    "Python.question3reprise.executor": "Run",
-    "Python.question4reprise.executor": "Run",
-    "Python.question5reprise.executor": "Run",
-    "Python.question6reprise.executor": "Run",
-    "Python.question7reprise.executor": "Run",
-    "Python.question8reprise.executor": "Run",
-    "Python.question9.executor": "Run",
-    "Python.question9reprise.executor": "Run",
-    "Python.reprisedesexercice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.liv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question10reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question11reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question12reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question1reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question2reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question3reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question4reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question5reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question6reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question7reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question8reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question9reprise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reprisedesexercice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
